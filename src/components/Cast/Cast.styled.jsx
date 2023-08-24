@@ -16,6 +16,7 @@ export const CastText = styled.p`
   gap: 15px;
 `
 export const CastImg = styled.img`
+  max-width: 600px;
   display: flex;
   flex-direction: column;
   gap: 15px;
